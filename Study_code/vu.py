@@ -1,0 +1,1 @@
+print("vu ngu")
